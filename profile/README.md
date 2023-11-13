@@ -2,7 +2,8 @@
 
 | 구분     | 용도 | 기술             | 저장소명                                                                                 | 설명            |
 | -------- | ---- | ---------------- | ---------------------------------------------------------------------------------------- | --------------- |
-| 서비스   | WEB  | React            | [proctormatic-fe-web](https://github.com/Proctormatic/proctormatic-fe-web)               | proctormatic v1 |
+| 서비스   | WEB  | React 한국       | [proctormatic-fe-web-korea](https://github.com/Proctormatic/proctormatic-fe-web-korea)   | proctormatic v1 |
+| 서비스   | WEB  | React 글로벌     | [proctormatic-fe-web-global](https://github.com/Proctormatic/proctormatic-fe-web-global) | proctormatic v1 |
 | 서비스   | WEB  | ReactNative EXPO | [proctormatic-fe-mobile](https://github.com/Proctormatic/proctormatic-fe-mobile)         | proctormatic v1 |
 | 서비스   | WEB  | ReactNative CLI  | [proctormatic-fe-mobile-cli](https://github.com/Proctormatic/proctormatic-fe-mobile-cli) | proctormatic v2 |
 | 백오피스 | -    | React            | [proctormatic-backoffice-fe](https://github.com/Proctormatic/proctormatic-backoffice-fe) | proctormatic v1 |
