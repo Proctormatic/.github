@@ -13,6 +13,7 @@
 | 구분     | 용도      | 기술               | 저장소명                                                                                           | 설명                  |
 | -------- | --------- | ------------------ | -------------------------------------------------------------------------------------------------- | --------------------- |
 | 서비스   | WEB       | Nest               | [proctormatic-be-web](https://github.com/Proctormatic/proctormatic-be-web)                         | proctormatic v1       |
+| 서비스   | WEB       | Nest               | [proctormatic-be-web-xinics](https://github.com/Proctormatic/proctormatic-be-web-xinics)           | proctormatic v1       |
 | 서비스   | WEB       | Express            | [proctormatic-be-api-server](https://github.com/Proctormatic/proctormatic-be-api-server)           | proctormatic v1 -> v2 |
 | 서비스   | Mobile    | Django             | [proctormatic-mobile-ai-api](https://github.com/Proctormatic/proctormatic-be-mobile-ai-api)        | proctormatic 1        |
 | 서비스   | Scheduler | TypeScript, Lambda | [proctormatic-be-scheduler](https://github.com/Proctormatic/proctormtaic-be-scheduler)             | proctormatic v2       |
