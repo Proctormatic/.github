@@ -4,6 +4,7 @@
 | -------- | ---- | ---------------- | ---------------------------------------------------------------------------------------- | --------------- |
 | 서비스   | WEB  | React 한국       | [proctormatic-fe-web-korea](https://github.com/Proctormatic/proctormatic-fe-web-korea)   | proctormatic v1 |
 | 서비스   | WEB  | React 글로벌     | [proctormatic-fe-web-global](https://github.com/Proctormatic/proctormatic-fe-web-global) | proctormatic v1 |
+| 서비스   | WEB  | React     | [proctormatic-fe-web-v1.5](https://github.com/Proctormatic/Proctormatic-fe-web-v1.5) | proctormatic v1.5 |
 | 서비스   | WEB  | React     | [proctormatic-fe-web-v2](https://github.com/Proctormatic/Proctormatic-fe-web-v2) | proctormatic v2 |
 | 서비스   | WEB  | ReactNative EXPO | [proctormatic-fe-mobile](https://github.com/Proctormatic/proctormatic-fe-mobile)         | proctormatic v1 |
 | 서비스   | WEB  | ReactNative CLI  | [proctormatic-fe-mobile-cli](https://github.com/Proctormatic/proctormatic-fe-mobile-cli) | proctormatic v2 |
